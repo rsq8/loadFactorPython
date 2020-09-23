@@ -1,3 +1,6 @@
+#This programme cacolates the payload(weight) an s92 helicopter can carry for a 
+#given mission. results displayed in a terminal window/
+
 class dispatch():
     def payloadavailable(self,aps,crew,fuel):        # calculate disposable weight
         return 26500-aps-crew-fuel
