@@ -1,3 +1,5 @@
+#This programme calculates flight times (block-time, etc) as determined in aviation.
+#The calculations are client specific.
 import datetime
 
 class flightdutytime():
