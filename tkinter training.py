@@ -1,3 +1,4 @@
+#This program calculates the load factor with a GUI
 import tkinter
 import tkinter.messagebox
 
